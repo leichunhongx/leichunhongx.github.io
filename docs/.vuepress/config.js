@@ -2,16 +2,6 @@ module.exports = {
   lang: 'zh-CN',
   title: '雷小鸿',
   description: '鸿鸿coding',
-  head:[[<script>
-         var _hmt = _hmt || [];
-         (function() {
-           var hm = document.createElement("script");
-           hm.src = "https://hm.baidu.com/hm.js?59033874dd991ce9246775fed052092a";
-           var s = document.getElementsByTagName("script")[0];
-           s.parentNode.insertBefore(hm, s);
-         })();
-         </script>
-  ]],
   themeConfig: {
     nav: [
       {
